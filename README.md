@@ -1,3 +1,3 @@
-## Hello, I'm Daniel 👋
+## Hey, I'm Daniel 👋
 
-My name is Daniel Lowry. I am currently a Senior student at Florida Gulf Coast University, studying Software Engineering.
+I am currently a Senior student at Florida Gulf Coast University, majoring in Software Engineering.
