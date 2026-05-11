@@ -1,6 +1,6 @@
 ## Hey, I'm Daniel 👋
 
-Currently a Senior student studying at Florida Gulf Coast University, majoring in Software Engineering.
+Currently a recent Florida Gulf Coast University graduate, who majored in Software Engineering. 
 
 Foundational background in backend development using C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
 
