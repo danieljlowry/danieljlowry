@@ -14,12 +14,17 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 <!-- Projects currently working on -->
 ## 🚧 What I'm Currently Working On 🏗️
 
-<a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
-  <h3> Needle Of Time </h3>
-</a>
-<a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
-  <h3> Portfolio Website </h3>
-</a>
+<h3>
+  <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
+    Needle Of Time 
+  </a>
+</h3>
+
+<h3>
+  <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
+   Portfolio Website 
+  </a>
+</h3>
 
 <!-- Technology List: Frontend, Backend, Database, Game Engines -->
 ## 🛠️ Technical Stack ⚙️
@@ -28,7 +33,11 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,&theme=dark" alt="Frontend Stack" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5"/>
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3"/>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
     </a>
 </p>
 
@@ -36,7 +45,11 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 
  <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres&theme=dark" alt="Backend Stack" />
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"/>
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C"/>
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"/>
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/>
     </a>
 </p>
 
@@ -44,7 +57,16 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,selenium,arduino,figma,vscode,clion,pycharm,idea,postman,&theme=dark" alt="Developer Tools" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/>
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+      <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium"/>
+      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode"/>
+      <img src="https://skillicons.dev/icons?i=clion&theme=dark" alt="CLion"/>
+      <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="Pycharm"/>
+      <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA"/>
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/>
     </a>
 </p>
 
@@ -52,6 +74,6 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Game Engines" />
+      <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot" />
     </a>
 </p>
