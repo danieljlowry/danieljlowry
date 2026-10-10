@@ -1,6 +1,8 @@
-<h1> >Hey, I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
+<h1> Hey, I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
 
-## Intro 
+<!-- Introduction -->
+## 👨‍💻 About Me 👨‍💻
+
 Currently a recent Florida Gulf Coast University graduate, who majored in Software Engineering. 
 
 Foundational background in backend development using C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
@@ -9,6 +11,17 @@ Continuing to improve back-end skills as well as breaking into front-end develop
 
 Thanks for stopping by! And please feel free to message me, I'd love to chat!
 
+<!-- Projects currently working on -->
+## 🚧 What I'm Currently Working On 🏗️
+
+<a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
+  <h3> Needle Of Time </h3>
+</a>
+<a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
+  <h3> Portfolio Website </h3>
+</a>
+
+<!-- Technology List: Frontend, Backend, Database, Game Engines -->
 ## 🛠️ Technical Stack ⚙️
 
 **Frontend**
