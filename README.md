@@ -52,24 +52,20 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 **Developer Tools**
 
 <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/>
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
-      <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium"/>
-      <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode"/>
-      <img src="https://skillicons.dev/icons?i=clion&theme=dark" alt="CLion"/>
-      <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="Pycharm"/>
-      <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ IDEA"/>
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/>
-    </a>
+      <img src="assets/tech_icons/Git.svg" alt="Git"/>
+      <img src="assets/tech_icons/Github-Dark.svg" alt="GitHub"/>
+      <img src="assets/tech_icons/Selenium.svg" alt="Selenium"/>
+      <img src="assets/tech_icons/Arduino.svg" alt="Arduino"/>
+      <img src="assets/tech_icons/Figma-Dark.svg" alt="Figma"/>
+      <img src="assets/tech_icons/VSCode-Dark.svg" alt="VSCode"/>
+      <img src="assets/tech_icons/CLion-Dark.svg" alt="CLion"/>
+      <img src="assets/tech_icons/PyCharm-Dark.svg" alt="Pycharm"/>
+      <img src="assets/tech_icons/Idea-Dark.svg" alt="IntelliJ IDEA"/>
+      <img src="assets/tech_icons/Postman.svg" alt="Postman"/>
 </p>
 
 **Game Engines**
 
 <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Godot" />
-    </a>
+      <img src="assets/tech_icons/Godot-Dark.svg" alt="Godot" />
 </p>
