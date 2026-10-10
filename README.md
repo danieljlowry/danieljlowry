@@ -19,5 +19,10 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
     </a>
   </p>
 
-**Backend**
+**Backend & Databases**
 
+ <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres&theme=dark" alt="Backend Stack" />
+    </a>
+  </p>
