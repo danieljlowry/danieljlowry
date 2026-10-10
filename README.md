@@ -1,6 +1,6 @@
 <h1> Hiya! I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="assets/galaga.gif" alt="Galaga">
   <p>
     <i> A gif showcasing the classic 1981 arcade shooter video game developed and published by Namco, which happens to be my favorite game of all time!</i>
