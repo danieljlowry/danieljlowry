@@ -52,20 +52,20 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 **Developer Tools**
 
 <p>
-      <img src="assets/tech_icons/Git.svg" alt="Git"/>
-      <img src="assets/tech_icons/Github-Dark.svg" alt="GitHub"/>
-      <img src="assets/tech_icons/Selenium.svg" alt="Selenium"/>
-      <img src="assets/tech_icons/Arduino.svg" alt="Arduino"/>
-      <img src="assets/tech_icons/Figma-Dark.svg" alt="Figma"/>
-      <img src="assets/tech_icons/VSCode-Dark.svg" alt="VSCode"/>
-      <img src="assets/tech_icons/CLion-Dark.svg" alt="CLion"/>
-      <img src="assets/tech_icons/PyCharm-Dark.svg" alt="Pycharm"/>
-      <img src="assets/tech_icons/Idea-Dark.svg" alt="IntelliJ IDEA"/>
-      <img src="assets/tech_icons/Postman.svg" alt="Postman"/>
+      <img src="assets/tech_icons/Git.svg" alt="Git" width="50"/>
+      <img src="assets/tech_icons/Github-Dark.svg" alt="GitHub" width="50"/>
+      <img src="assets/tech_icons/Selenium.svg" alt="Selenium" width="50"/>
+      <img src="assets/tech_icons/Arduino.svg" alt="Arduino" width="50"/>
+      <img src="assets/tech_icons/Figma-Dark.svg" alt="Figma" width="50"/>
+      <img src="assets/tech_icons/VSCode-Dark.svg" alt="VSCode" width="50"/>
+      <img src="assets/tech_icons/CLion-Dark.svg" alt="CLion" width="50"/>
+      <img src="assets/tech_icons/PyCharm-Dark.svg" alt="Pycharm" width="50"/>
+      <img src="assets/tech_icons/Idea-Dark.svg" alt="IntelliJ IDEA" width="50"/>
+      <img src="assets/tech_icons/Postman.svg" alt="Postman" width="50"/>
 </p>
 
 **Game Engines**
 
 <p>
-      <img src="assets/tech_icons/Godot-Dark.svg" alt="Godot" />
+      <img src="assets/tech_icons/Godot-Dark.svg" alt="Godot" width="50"/>
 </p>
