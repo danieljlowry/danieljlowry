@@ -1,4 +1,4 @@
-<h1> Hey, I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
+<h1> Hiya! I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
 
 <!-- Introduction -->
 ## 👨‍💻 About Me 👨‍💻
@@ -9,22 +9,43 @@ Foundational background in backend development using C/C++, Java, and Python. Ad
 
 Continuing to improve back-end skills as well as breaking into front-end development, with the eventual goal to be full stack developer. 
 
-Thanks for stopping by! And please feel free to message me, I'd love to chat!
+Thank you for stopping by! And please feel free to message me, I'd love to chat! Bye!
 
 <!-- Projects currently working on -->
 ## 🚧 What I'm Currently Working On 🏗️
 
+<!-- Needle Of Time -->
 <h3>
-  <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC" style="text-decoration: none">
+  <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
     Needle Of Time 
   </a>
 </h3>
 
+<p>
+
+- 2D video game platformer 
+- A mysterious shadowy figure is attempting to unravel the very threads of time itself
+- The time administration's (literally) holier-than-thou director sends the player character out to extinguish the threat and save time itself
+- The player must travel across the past, present, and future, facing various enemies from each in order to preserve the steady flow of time 
+- Serves as both a personal project of mine as well as my introduction into game development, utilizing the Godot engine and the gdscript language
+
+</p>
+
+<!-- Portfolio Website -->
 <h3>
-  <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website" style="text-decoration: none">
+  <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
    Portfolio Website 
   </a>
 </h3>
+
+<p>
+
+- Your standard issue portfolio website you'd see on other developer's profiles
+- Includes a small intro and background about myself
+- Lists my academic career, acheivements, events, etc
+- As well as showcasing my class, personal, and event projects
+
+</p>
 
 <!-- Technology List: Frontend, Backend, Database, Game Engines -->
 ## 🛠️ Technical Stack ⚙️
