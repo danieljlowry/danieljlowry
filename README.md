@@ -32,25 +32,21 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 **Frontend**
 
 <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5"/>
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3"/>
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript"/>
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/>
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/>
-    </a>
+      <img src="assets/tech_icons/HTML.svg" alt="HTML5" width="50"/>
+      <img src="assets/tech_icons/CSS.svg" alt="CSS3" width="50"/>
+      <img src="assets/tech_icons/JavaScript.svg" alt="JavaScript" width="50"/>
+      <img src="assets/tech_icons/TypeScript.svg" alt="TypeScript" width="50"/>
+      <img src="assets/tech_icons/React-Dark.svg" alt="React" width="50"/>
 </p>
 
 **Backend & Databases**
 
  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java"/>
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C"/>
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"/>
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/>
-    </a>
+      <img src="assets/tech_icons/Python-Dark.svg" alt="Python" width="50"/>
+      <img src="assets/tech_icons/Java-Dark.svg" alt="Java" width="50"/>
+      <img src="assets/tech_icons/C.svg" alt="C" width="50"/>
+      <img src="assets/tech_icons/CPP.svg" alt="C++" width="50"/>
+      <img src="assets/tech_icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50"/>
 </p>
 
 **Developer Tools**
