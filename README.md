@@ -1,4 +1,4 @@
-# Hey, I'm Daniel 👋
+<h1> >Hey, I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
 
 ## Intro 
 Currently a recent Florida Gulf Coast University graduate, who majored in Software Engineering. 
