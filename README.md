@@ -17,7 +17,7 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,&theme=dark" alt="Frontend Stack" />
     </a>
-  </p>
+</p>
 
 **Backend & Databases**
 
@@ -25,12 +25,20 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres&theme=dark" alt="Backend Stack" />
     </a>
-  </p>
+</p>
 
 **Developer Tools**
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,selenium,arduino,figma,vscode,clion,pycharm,postman,&theme=dark" alt="DevOps and Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,selenium,arduino,figma,vscode,clion,pycharm,idea,postman,&theme=dark" alt="Developer Tools" />
     </a>
-  </p>
+</p>
+
+**Game Engines**
+
+<p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Game Engines" />
+    </a>
+</p>
