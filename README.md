@@ -1,15 +1,23 @@
 <h1> Hiya! I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
 
+<div style="text-align: center;">
+  <img src="assets/galaga.gif" alt="Galaga">
+  <p>
+    <i> A gif showcasing the classic 1981 arcade shooter video game developed and published by Namco, which happens to be my favorite game of all time!</i>
+  </p>
+</div>
+ 
 <!-- Introduction -->
 ## 👨‍💻 About Me 👨‍💻
 
-Currently a recent Florida Gulf Coast University graduate, who majored in Software Engineering. 
+<p>
 
-Foundational background in backend development using C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
+- A Florida Gulf Coast University (FGCU) new graduate, who majored in Software Engineering. 
+- Foundational background in backend development using C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
+- Continuing to work and improve my full-stack related skills, with the eventual goal to become a software engineer. 
+- Thank you for stopping by! And please feel free to message me, I'd love to chat! Bye!
 
-Continuing to improve back-end skills as well as breaking into front-end development, with the eventual goal to be full stack developer. 
-
-Thank you for stopping by! And please feel free to message me, I'd love to chat! Bye!
+</p>
 
 <!-- Projects currently working on -->
 ## 🚧 What I'm Currently Working On 🏗️
@@ -17,7 +25,7 @@ Thank you for stopping by! And please feel free to message me, I'd love to chat!
 <!-- Needle Of Time -->
 <h3>
   <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
-    Needle Of Time 
+    Needle Of Time 🪡
   </a>
 </h3>
 
@@ -34,7 +42,7 @@ Thank you for stopping by! And please feel free to message me, I'd love to chat!
 <!-- Portfolio Website -->
 <h3>
   <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
-   Portfolio Website 
+   Portfolio Website 🖥️
   </a>
 </h3>
 
