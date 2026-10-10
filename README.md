@@ -1,5 +1,6 @@
-## Hey, I'm Daniel 👋
+# Hey, I'm Daniel 👋
 
+## Intro 
 Currently a recent Florida Gulf Coast University graduate, who majored in Software Engineering. 
 
 Foundational background in backend development using C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
@@ -7,4 +8,16 @@ Foundational background in backend development using C/C++, Java, and Python. Ad
 Continuing to improve back-end skills as well as breaking into front-end development, with the eventual goal to be full stack developer. 
 
 Thanks for stopping by! And please feel free to message me, I'd love to chat!
+
+## 🛠️ Technical Stack ⚙️
+
+**Frontend**
+
+<p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,&theme=dark" alt="Frontend Stack" />
+    </a>
+  </p>
+
+**Backend**
 
