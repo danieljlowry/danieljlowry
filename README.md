@@ -15,13 +15,13 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
 ## 🚧 What I'm Currently Working On 🏗️
 
 <h3>
-  <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
+  <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC" style="text-decoration: none">
     Needle Of Time 
   </a>
 </h3>
 
 <h3>
-  <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
+  <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website" style="text-decoration: none">
    Portfolio Website 
   </a>
 </h3>
