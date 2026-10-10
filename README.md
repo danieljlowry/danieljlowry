@@ -26,3 +26,11 @@ Thanks for stopping by! And please feel free to message me, I'd love to chat!
       <img src="https://skillicons.dev/icons?i=python,java,c,cpp,postgres&theme=dark" alt="Backend Stack" />
     </a>
   </p>
+
+**Developer Tools**
+
+<p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,selenium,arduino,figma,vscode,clion,pycharm,postman,&theme=dark" alt="DevOps and Tools" />
+    </a>
+  </p>
