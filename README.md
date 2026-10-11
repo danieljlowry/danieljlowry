@@ -25,8 +25,9 @@
 <!-- Needle Of Time -->
 <h3>
   <a href="https://github.com/danieljlowry/Needle_Of_Time_PUBLIC">
-    Needle Of Time 🪡
+    Needle Of Time 
   </a>
+  🪡
 </h3>
 
 <p>
@@ -42,8 +43,9 @@
 <!-- Portfolio Website -->
 <h3>
   <a href="https://github.com/danieljlowry/Daniel-Lowry-Portfolio-Website">
-   Portfolio Website 🖥️
+   Portfolio Website
   </a>
+  🖥️
 </h3>
 
 <p>
@@ -54,6 +56,24 @@
 - As well as showcasing my class, personal, and event projects
 
 </p>
+
+<!-- Shhhh!! Secret! -->
+<h3> 
+  <a href="assets/question_mark.png">
+  ???
+  </a>
+  (x2)
+</h3>
+
+<p>
+  
+- Two more secretive projects <br>
+- Godot & React related <br>
+- Hope to be able to talk about (relatively) soon...
+- Stay tuned for updates!
+  
+</p>
+
 
 <!-- Technology List: Frontend, Backend, Database, Game Engines -->
 ## 🛠️ Technical Stack ⚙️
