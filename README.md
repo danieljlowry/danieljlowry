@@ -119,4 +119,4 @@
       <img src="assets/tech_icons/Godot-Dark.svg" alt="Godot" width="50"/>
 </p>
 
-<h3  align="center">💻 Thanks again for stopping by & check out my repos, if you have the chance ⬇️ </h3>
+<h3  align="center"><img src="assets/bye.gif" alt="Waving Goodbye Gif" width="30"> Thanks again for stopping by & check out my repos, if you have the chance ⬇️ </h3>
