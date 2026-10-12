@@ -1,7 +1,7 @@
 <h1> Hiya! I'm Daniel <img src="assets/island_wave.gif" alt="Island Waving Gif" width="30"></h1>
 
 <div align="center">
-  <img src="assets/galaga.gif" alt="Galaga">
+  <img src="assets/galaga.gif" alt="Galaga Gif">
   <p>
     <i> A gif showcasing the classic 1981 arcade shooter video game developed and published by Namco, which happens to be my favorite game of all time!</i>
   </p>
@@ -62,7 +62,7 @@
   <a href="assets/question_mark.png">
   ???
   </a>
-  (x2)
+  (x2) 🤫
 </h3>
 
 <p>
@@ -119,4 +119,4 @@
       <img src="assets/tech_icons/Godot-Dark.svg" alt="Godot" width="50"/>
 </p>
 
-<h3  align="center">💻 Check Out My Repos ⬇️ </h3>
+<h3  align="center">💻 Thanks again for stopping by & check out my repos, if you have the chance ⬇️ </h3>
