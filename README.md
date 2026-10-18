@@ -12,9 +12,10 @@
 
 <p>
 
-- A Florida Gulf Coast University (FGCU) new graduate, who majored in Software Engineering. 
-- Foundational background in backend development using C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
-- Continuing to work and improve my full-stack related skills, with the eventual goal to become a software engineer. 
+- Florida Gulf Coast University (FGCU) recent graduate, who majored in Software Engineering. 
+- Foundational background in backend development via C/C++, Java, and Python. Additionally, I've worked with the Arduino Uno R3 microcontroller using C++ and Assembly.
+- Continuing to work and improve my full-stack related skills with HTML/CSS/JavaScript and React.
+- Eventual goal to become a software engineer. 
 - Thank you for stopping by! And please feel free to message me, I'd love to chat! Bye!
 
 </p>
